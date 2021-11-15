@@ -1,4 +1,4 @@
-package twoSum;
+package e1;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -20,7 +20,7 @@ public class Code {
     }
 
     /**
-     * myself
+     * myself（对标答案）
      * 	2 ms	38.4 MB
      * @param nums
      * @param target

@@ -1,4 +1,4 @@
-package integerReverse;
+package e2;
 
 import java.util.Objects;
 
